@@ -23,7 +23,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This is DreamPie - The Python shell you've always dreamed about!
 
 %description -l pl.UTF-8
-Powłoka Pythona z Twoch snów!
+Powłoka Pythona z Twoich snów!
 
 %prep
 %setup -q
