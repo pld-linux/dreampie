@@ -1,12 +1,12 @@
 Summary:	Python shell
 Summary(pl.UTF-8):	Powłoka Pythona
 Name:		dreampie
-Version:	1.0.2
+Version:	1.1
 Release:	1
 License:	GPL v3+
 Group:		Development/Languages/Python
-Source0:	http://launchpad.net/dreampie/trunk/1.0.2/+download/%{name}-%{version}.tar.gz
-# Source0-md5:	3eb5d290e35e3df378c0341c142eb91c
+Source0:	http://launchpad.net/dreampie/trunk/%{version}/+download/%{name}-%{version}.tar.gz
+# Source0-md5:	57ced153616069ca6c3c7d37bb30633a
 URL:		http://dreampie.sourceforge.net/
 BuildRequires:	python-devel
 BuildRequires:	rpm-pythonprov
