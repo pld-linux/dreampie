@@ -10,7 +10,7 @@ Source0:	http://launchpad.net/dreampie/trunk/%{version}/+download/%{name}-%{vers
 URL:		http://dreampie.sourceforge.net/
 BuildRequires:	python-devel
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 Requires:	python-gtksourceview2
 Requires:	python-modules
 Requires:	python-pygtk-glade
